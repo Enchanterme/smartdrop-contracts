@@ -2,7 +2,10 @@
 soroban/target
 .contract-ids.json
 **/*.rs.bk
+temp_auto_push.bat
 .env
 .DS_Store
 issue.md
 pr.md
+.gitignore
+branch_structure.json
